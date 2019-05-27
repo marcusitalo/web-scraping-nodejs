@@ -1,0 +1,27 @@
+{
+  "name": "web-scraping-nodejs",
+  "version": "1.0.0",
+  "description": "Web Scraping using NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusitalo/web-scraping-nodejs.git"
+  },
+  "keywords": [
+    "web-scraping",
+    "nodejs"
+  ],
+  "author": "Marcus Italo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusitalo/web-scraping-nodejs/issues"
+  },
+  "homepage": "https://github.com/marcusitalo/web-scraping-nodejs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
